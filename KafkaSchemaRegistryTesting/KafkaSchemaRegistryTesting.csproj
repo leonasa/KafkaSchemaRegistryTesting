@@ -8,8 +8,9 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <PackageReference Include="AvroSchemaGenerator" Version="2.7.0" />
-      <PackageReference Include="SchemaRegistry" Version="1.1.1" />
+        <PackageReference Include="AvroSchemaGenerator" Version="2.7.0" />
+        <PackageReference Include="Confluent.SchemaRegistry.Serdes.Avro" Version="1.9.2" />
+        <PackageReference Include="SchemaRegistry" Version="1.1.1" />
     </ItemGroup>
 
 </Project>
