@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KafkaSchemaRegistryTesting", "KafkaSchemaRegistryTesting\KafkaSchemaRegistryTesting.csproj", "{30547955-455B-45C9-9274-7E6D7004AD5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30547955-455B-45C9-9274-7E6D7004AD5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30547955-455B-45C9-9274-7E6D7004AD5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30547955-455B-45C9-9274-7E6D7004AD5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30547955-455B-45C9-9274-7E6D7004AD5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
